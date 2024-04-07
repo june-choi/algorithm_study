@@ -14,3 +14,4 @@ for i in range(n):
         coin_count.append(count)
         amount %= coin
     print(*coin_count)
+
